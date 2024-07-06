@@ -13,12 +13,11 @@ Hello! I'm Paras Jain, a **Certified Data Analyst** with a passion for turning d
 With a Master's Certification in Data Analytics, I bring a deep understanding of data-driven decision-making. My projects showcase my ability to work with various tools and technologies to solve real-world problems.
 
 ## 🛠️ Skills & Tools
-**Power BI**   
-**Excel**     
-**VBA**    
-**SQL**    
-**Python**    
-
+- **Power BI**   
+- **Excel**     
+- **VBA**    
+- **SQL**    
+- **Python**    
 - **Data Visualization**: Creating visually appealing and informative charts.
 - **Data Cleaning**: Ensuring data quality and consistency.
 - **Automated Reporting**: Using VBA and Python to automate repetitive tasks.
